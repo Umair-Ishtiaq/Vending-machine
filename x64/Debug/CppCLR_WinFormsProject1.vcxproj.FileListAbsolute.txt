@@ -1,0 +1,14 @@
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.exe
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.MyForm1.resources
+C:\Users\umair raja\Desktop\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.MyForm2.resources
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.MyForm1.resources
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.MyForm2.resources
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
+C:\Users\umair raja\Desktop\cust uni\6th semester\Theory of programming Languages\assi 1\x64\Debug\CppCLR_WinFormsProject1.exe
